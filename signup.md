@@ -18,7 +18,7 @@ Send us and email to find out more information
 	<input type="submit" value="Submit">
 </form>
 
-[Or stop by a meeting]("pork3.github.io/meeting.md")
+[Or stop by a meeting]("../meeting.md")
 
 
 
